@@ -1,12 +1,13 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Home from "./pages/Home";
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <h1>Hello word</h1>
-    </div>
+    <>
+      <Home />
+    </>
   );
-}
+};
 
 export default App;
