@@ -1,14 +1,14 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  cursor: pointer;
   position: absolute;
   width: 264px;
   height: 134px;
-  left: 951px;
+  left: 925px;
   top: 87px;
   background: #1b1b1b;
   border-radius: 25px;
+  cursor: pointer;
 `;
 
 export const ContainerTitle = styled.div`

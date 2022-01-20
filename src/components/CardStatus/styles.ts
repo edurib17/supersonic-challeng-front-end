@@ -5,7 +5,7 @@ export const Container = styled.div`
   cursor: pointer;
   width: 264px;
   height: 134px;
-  left: 667px;
+  left: 650px;
   top: 90px;
   background: #9de445;
   border-radius: 25px;

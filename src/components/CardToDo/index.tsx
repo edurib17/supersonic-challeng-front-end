@@ -1,14 +1,13 @@
 import React from "react";
 import Files from "../../assets/files.svg";
-
 import {
   Container,
   ContainerTitle,
   Title,
   ContainerImg,
   Image,
-  ContainerDescription, 
-  Description
+  ContainerDescription,
+  Description,
 } from "./styles";
 
 const CardToDo: React.FC = () => {
