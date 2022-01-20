@@ -2,6 +2,7 @@ import React from "react";
 //components
 import Aside from "../../components/Aside";
 import CardStatus from "../../components/CardStatus";
+import CardToDo from "../../components/CardToDo";
 import CardWelcome from "../../components/CardWelcome";
 import Header from "../../components/Header";
 
@@ -14,6 +15,7 @@ const Home: React.FC = () => {
       <Aside />
       <CardWelcome/>
       <CardStatus/>
+      <CardToDo/>
     </Container>
   );
 };

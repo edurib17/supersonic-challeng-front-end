@@ -1,59 +1,60 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  position: absolute;
   cursor: pointer;
+  position: absolute;
   width: 264px;
   height: 134px;
-  left: 667px;
-  top: 90px;
-  background: #9de445;
+  left: 951px;
+  top: 87px;
+  background: #1b1b1b;
   border-radius: 25px;
 `;
 
 export const ContainerTitle = styled.div`
   position: absolute;
-  width: 123px;
+  width: 125px;
   height: 38px;
   left: 30px;
   top: 15px;
 `;
 
-export const Title = styled.h2`
+export const Title = styled.h1`
   font-family: Open Sans;
   font-style: normal;
+  background: #1b1b1b;
   font-weight: bold;
   font-size: 14px;
   line-height: 19px;
-  background: #9de445;
+  color: #ffffff;
 `;
 
-export const ContainerIcon = styled.div`
+export const ContainerImg = styled.div`
   position: absolute;
-  width: 20px;
-  height: 20px;
-  left: 200px;
-  top: -1px;
-  background: #9de445;
+  width: 72px;
+  height: 108px;
+  left: 150px;
+  top: 1px;
 `;
 
-export const IconEllipse = styled.img`
-  background: #9de445;
+export const Image = styled.img`
+  background: #1b1b1b;
 `;
 
 export const ContainerDescription = styled.div`
   position: absolute;
-  width: 200px;
+  width: 145px;
   height: 38px;
   left: 30px;
   top: 73px;
 `;
 
-export const Description = styled.h3`
+export const Description = styled.h2`
   font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 19px;
-  background: #9de445;
+  color: #ffffff;
+  background: #1b1b1b;
 `;
