@@ -24,7 +24,6 @@ export const Title = styled.h1`
   background: #ffffff;
   font-size: 40px;
   line-height: 52px;
-  color: #000000;
 `;
 
 export const ContainerSubTitle = styled.div`
