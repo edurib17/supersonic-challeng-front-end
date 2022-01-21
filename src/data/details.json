@@ -1,0 +1,103 @@
+[
+    {
+      "step": "01.Start",
+      "status": true,
+      "description": "Etapa finalizada",
+      "steps": [
+        {
+          "sub_etapa": "Produção",
+          "responsavel": "Supersonic",
+          "sub_status": "Design finalizado",
+          "status":true
+        },
+        {
+          "sub_etapa": "Produção",
+          "responsavel": "Supersonic",
+          "sub_status": "Design Enviado",
+          "link":"Link",
+          "status":true
+        },
+        {
+          "sub_etapa": "Produção",
+          "responsavel": "Supersonic",
+          "sub_status": "Aprovado",
+          "status":true
+        }
+      ]
+    },
+    {
+      "step": "02. Pesquisa e diagnóstico",
+      "status": true,
+      "description": "Etapa finalizada",
+      "steps": [
+        {
+          "sub_etapa": "Produção",
+          "responsavel": "Supersonic",
+          "sub_status": "Pesquisa finalizada",
+          "status":true
+        },
+        {
+          "sub_etapa": "Produção",
+          "responsavel": "Supersonic",
+          "sub_status": "Pesquisada Enviada",
+          "status":true
+        },
+        {
+          "sub_etapa": "Produção",
+          "responsavel": "Supersonic",
+          "sub_status": "Aprovada",
+          "status":true
+        }
+      ]
+    },
+    {
+        "step": "03. Wireframe",
+        "status": true,
+        "description": "Etapa finalizada",
+        "steps": [
+          {
+            "sub_etapa": "Produção",
+            "responsavel": "Supersonic",
+            "sub_status": "Pesquisa finalizada",
+            "status":true
+          },
+          {
+            "sub_etapa": "Produção",
+            "responsavel": "Supersonic",
+            "sub_status": "Pesquisada Enviada",
+            "status":true
+          },
+          {
+            "sub_etapa": "Produção",
+            "responsavel": "Supersonic",
+            "sub_status": "Aprovada",
+            "status":true
+          }
+        ]
+      },
+      {
+        "step": "04. Layout",
+        "status": false,
+        "description": "Etapa em andamento",
+        "steps": [
+          {
+            "sub_etapa": "Produção",
+            "responsavel": "Supersonic",
+            "sub_status": "Pesquisa finalizada",
+            "status":true
+          },
+          {
+            "sub_etapa": "Produção",
+            "responsavel": "Supersonic",
+            "sub_status": "Pesquisada Enviada",
+            "status":true
+          },
+          {
+            "sub_etapa": "Produção",
+            "responsavel": "Cliente",
+            "sub_status": "Aguardando Aprovação",
+            "status":false
+          }
+        ]
+      }
+  ]

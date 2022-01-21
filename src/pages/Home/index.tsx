@@ -1,4 +1,5 @@
 import React from "react";
+import Detailing from "../../components/ Detailing";
 //components
 import Aside from "../../components/Aside";
 import CardStatus from "../../components/CardStatus";
@@ -14,10 +15,11 @@ const Home: React.FC = () => {
     <Container>
       <Header />
       <Aside />
-      <CardWelcome/>
-      <CardStatus/>
-      <CardToDo/>
-      <CardTimeline/>
+      <CardWelcome />
+      <CardStatus />
+      <CardToDo />
+      <CardTimeline />
+      <Detailing />
     </Container>
   );
 };

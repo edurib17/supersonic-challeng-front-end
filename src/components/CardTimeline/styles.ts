@@ -94,7 +94,7 @@ export const Date = styled.h2`
   position: absolute;
   width: 70px;
   height: 16px;
-  top: 15px;
+  top: 18px;
   left: 9px;
   font-family: Open Sans;
   font-style: normal;
