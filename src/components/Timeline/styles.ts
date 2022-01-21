@@ -85,7 +85,7 @@ export const Circle = styled.div`
 
 export const Title = styled.h2`
   position: absolute;
-  left: -10px;
+  left: -9px;
   top: 25px;
   font-family: Open Sans;
   font-style: normal;

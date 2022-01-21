@@ -61,7 +61,7 @@ export const Status = styled.h3`
 
 export const Table = styled.table`
   width: 100%;
-  border-radius: 0px 0px 15px 15px;
+  border-radius: 0px 0px 20px 20px;
   margin-top: 1px;
   overflow: hidden;
   position: relative;

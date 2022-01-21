@@ -2,7 +2,7 @@ import React from "react";
 //Icons
 import Logo from "../../assets/icon.svg";
 import Check from "../../assets/check.svg";
-import Results from "../../assets/results.svg"
+import Results from "../../assets/results.svg";
 
 import {
   Container,
@@ -14,7 +14,7 @@ import {
   StatusProject,
   StatusResults,
   IconCheck,
-  IconResults
+  IconResults,
 } from "./styles";
 
 const Aside: React.FC = () => {
@@ -28,7 +28,6 @@ const Aside: React.FC = () => {
         Status do Projeto
         <IconCheck src={Check} />
       </StatusProject>
-
       <Line2 />
       <StatusResults>
         Resultados

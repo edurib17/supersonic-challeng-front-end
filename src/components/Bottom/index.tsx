@@ -56,8 +56,8 @@ const Bottom: React.FC<IBottomProps> = ({
       </Container>
       {showTable ? (
         <Table>
-          {steps.map((step) => (
-            <Tr>
+          {steps.map((step,index) => (
+            <Tr key={index}>
               <Td>
                 {step.status ? (
                   <IconCheckTable src={check_table} />
