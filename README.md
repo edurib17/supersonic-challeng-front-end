@@ -1,4 +1,4 @@
-# supersonic-challeng front-end-jr
+# supersonic-challeng-front-end-jr
 
 ### Tecnologias Utilizadas:
 
@@ -33,5 +33,3 @@ npm install
 yarn start
 npm start
 ```
-
-Thank you :)
