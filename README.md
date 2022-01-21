@@ -33,5 +33,3 @@ npm install
 yarn start
 npm start
 ```
-
-Thank you :)
