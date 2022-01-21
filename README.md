@@ -1,4 +1,4 @@
-# supersonic-challeng front-end-jr
+# supersonic-challeng-front-end-jr
 
 ### Tecnologias Utilizadas:
 
